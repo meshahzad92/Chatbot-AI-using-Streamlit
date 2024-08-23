@@ -4,7 +4,7 @@ import os
 
 try:
     
-    genai.configure(api_key="AIzaSyBtkylRxKdz_LpNX-Y1KSnrsqF0kphu53M")
+    genai.configure(api_key="Your_api")
 
     model = genai.GenerativeModel('gemini-1.5-flash')
     prompt=input("Enter the prompt: ")
