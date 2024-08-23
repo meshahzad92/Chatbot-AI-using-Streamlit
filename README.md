@@ -7,3 +7,6 @@ In this code, there is integration of Gemini API but also involves the use of do
 
 # text2text_Streamlit
 In this code, there is use of Streamlit library for an attractive Webpage where you can enter your prompt to get a response.
+
+# t2t_Streamlit_history
+In this code, there is use of Streamlit library for an attractive Webpage where you can enter your prompt to get a response and you can also watch your search history.
